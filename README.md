@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there. Thanks For Stopping By 👋
 
 <!--
 **vinInvention/vinInvention** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
