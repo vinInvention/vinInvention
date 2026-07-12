@@ -160,21 +160,7 @@ Beyond research, my goal is to establish a robotics innovation hub in my local c
 
 ---
 
-## 📈 GitHub Goals
 
-I am gradually documenting my engineering journey by publishing:
-
-- Project source code
-- Technical documentation
-- Circuit diagrams
-- System architecture
-- Design decisions
-- Project videos
-- Engineering write-ups
-
-More projects and documentation will be added as they are completed.
-
----
 
 ## 🤝 Let's Connect
 
@@ -184,6 +170,7 @@ More projects and documentation will be added as they are completed.
 *http://tiny.cc/xtoq001*
 
 📧 Email: *vincentchinonyerem@gmail.com*
+📱 Phone: +234 810 257 8409
 
 ---
 
