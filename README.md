@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Chinonyerem Vincent
 
-### Computer Science Graduate | Robotics Instructor | Aspiring Mechatronics Engineer
+### Computer Science Graduate | Coding & Robotics Instructor| Aspiring Mechatronics Engineer
 
 Welcome to my GitHub!
 
